@@ -58,6 +58,9 @@ img {
     overflow: hidden;
 }
 
+.top {
+    margin-top: 25px;
+}
 ul {
     padding: 0;
     margin: 0;
